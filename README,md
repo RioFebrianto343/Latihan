@@ -1,0 +1,11 @@
+#Tutorial Cara Penggunaan Git
+Langkah 1-Install GIT di git-scm.org
+Langkah 2-Daftar/Registrasi Akun github di github.com
+Langkah 3-Setelah menginstall dan mendaftar lalu buka GIT Bash
+Adapun beberapa command yg dapat digunakan
+-git clone=digunakan untuk clone repository kita yang ada server gitke lokal pc kita
+-git add=digunakan untuk menambahkan file yang akan taruh di repository,baik itu file baru ataupun file yang sudah dirubah isinya
+-git rm=command ini seperti git add,hanya saja git rm ini menghapus
+-git commit=digunakan untuk mencatat segala perubahan yang telah dilakukan sebelum akhirnya di push ke server repository
+-git push=digunakan untuk mengirim segala sesuatu yang merubah dan sudah di commit ke server repository git
+-git pull=digunakan untuk update data-data dan perubahan yang terjadi di server repository yang dilakukan oleh developer lain ke lokal git kita
